@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VK Info</string>
+    <string name="enter_the_vk_id_number">Enter the VK id number</string>
+    <string name="search">Search!</string>
+    <string name="result_will_be_visible_here">Result will be visible here</string>
+
+    <string name="error_message">Oops!!! Please try again</string>
+</resources>
